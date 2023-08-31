@@ -2,3 +2,22 @@
 
 # ProjetoLojaMusica
 Este repositório foi criado para servir de base de dados para o estudo de um desenvolvimento de uma Loja de Musica, o projeto simula uma solicitação que poderia ser real.
+
+## Autor:
+* **Werdeles Marcio de C. Soares**:**(gh05tb0y)** - _Desenvolvedor_
+
+## Licença: 
+***Este projeto está sob Licença GPL-3.0.***
+Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/ProjetoLojaMusica/blob/master/Archives/LICENSE) para obter mais detalhes.
+
+## Agradecimentos:
+* Obrigado à todos os que apoiam o projeto de alguma forma.
+
+## Contatos
+Se quiser entrar em contato, crie um **issue** no GitHub ou envie um e-mail para werdelesmarcio@gmail.com. Obrigado!
+
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/ProjetoLojaMusica?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/ProjetoLojaMusica?style=for-the-badge">
+
+<img src = "https://github.com/werdelesmarcio/PyTCPScan2/blob/master/Images/SoftwareLivre.png?raw=true" width =130 align="Right">
+<img src = "https://github.com/werdelesmarcio/PyTCPScan2/blob/master/Images/PoweredByLinux.png?raw=true" width =80 align="Right">
+
