@@ -8,7 +8,7 @@ Este repositório foi criado para servir de base de dados para o estudo de um de
 
 ## Licença: 
 ***Este projeto está sob Licença GPL-3.0.***
-Consulte o arquivo de [Licença]([https://github.com/werdelesmarcio/ProjetoLojaMusica/blob/master/Archives/LICENSE) para obter mais detalhes.
+Consulte o arquivo de [Licença](https://github.com/werdelesmarcio/ProjetoLojaMusica/blob/main/LICENSE) para obter mais detalhes.
 
 ## Agradecimentos:
 * Obrigado à todos os que apoiam o projeto de alguma forma.
