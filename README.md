@@ -7,13 +7,17 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/g502u7jpk7snimha/branch/main?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/projetolojamusica/branch/main)
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)   
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ProjetoLojaMusica&metric=reliability_rating)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ProjetoLojaMusica) 
 
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan2&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_PyTCPScan2)   
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ProjetoLojaMusica&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ProjetoLojaMusica)
 
-<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan2">   
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ProjetoLojaMusica&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ProjetoLojaMusica) 
 
-<img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan2">   
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ProjetoLojaMusica&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ProjetoLojaMusica)
+
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/ProjetoLojaMusica">   
+
+<img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/ProjetoLojaMusica">   
 
 <img alt="Twitter" src="https://img.shields.io/twitter/url?label=gh05tb0y&logo=twitter&logoColor=green&style=social&url=https%3A%2F%2Ftwitter.com%2Fc4s3_w1nt3rmut3">
 
