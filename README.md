@@ -3,6 +3,26 @@
 # ProjetoLojaMusica
 Este repositório foi criado para servir de base de dados para o estudo de um desenvolvimento de uma Loja de Musica, o projeto simula uma solicitação que poderia ser real.
 
+## A necessidade do cliente e os testes para aprovação
+
+Nós fomos contactados por uma pequena gravadora de música que deseja contratar nossos serviços para desenvolver uma loja virtual que venda downloads de músicas. **Detalhe**: _urgência máxima no projeto._ Fomos chamados para desenvolver uma solução para seus problemas em tempo recorde: **somente 20 horas**. Suas maiores preocupações é que o sistema seja capaz de suportar qualquer tipo de banco de dados e a interface de iteração com o cliente seja através da web, com muitos recursos visuais e ajax para atrair os compradores. 
+
+O cliente pediu que o sistema passe pelos seguintes testes para aprovar os gastos com o mesmo:
+
+* permitir listar, cadastrar, e remover um usuário que acessa o sistema
+* permitir listar, cadastrar, remover e alterar um cd
+* permitir listar, cadastrar, remover e alterar uma música
+* sistema de login
+* permitir alguém selecionar musicas diversas para comprar
+* receber dados de relativos à venda, como nome do cliente, email e cartãode credito
+* permitir adicionar e remover musicas do carrinho
+
+
+
+
+
+
+
 ## Autor:
 * **Werdeles Marcio de C. Soares**: **(gh05tb0y)** - _Desenvolvedor_
 
