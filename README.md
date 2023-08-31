@@ -17,6 +17,19 @@ O cliente pediu que o sistema passe pelos seguintes testes para aprovar os gasto
 * receber dados de relativos à venda, como nome do cliente, email e cartãode credito
 * permitir adicionar e remover musicas do carrinho
 
+## Partes do projeto
+
+Sendo assim, iremos dividir o projeto em algumas partes:
+
+1. criar o ambiente de desenvolvimento
+2. criar o banco de dados de usuário
+3. refatorar o sistema para web e dao genérico
+4. criar sistemas de gerenciamento de Cds e Musicas
+5. criar o sistema de login
+6. criar a loja virtual, com a interface básica com o usuário
+7. inserir recursos de ajax na loja virtual
+8. validar
+9. gerenciar atualizações
 
 
 
